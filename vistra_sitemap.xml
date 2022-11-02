@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.w3.org/TR/xhtml11/xhtml11_schema.html http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/TR/xhtml11/xhtml11_schema.html">
-  <url>
+      <url>
+    <loc>https://www.txu.com/about/press-releases/2022/092722-txu-energy-announces-recipients-of-2022-energy-leadership-awards.aspx/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2022/092722-txu-energy-announces-recipients-of-2022-energy-leadership-awards.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+      <url>
+    <loc>https://www.txu.com/about/press-releases/2022/060122-txu-energy-commits-to-uvalde-community.aspx</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2022/060122-txu-energy-commits-to-uvalde-community.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+      <url>
+    <loc>https://www.txu.com/about/press-releases/2022/052422-txu-energy-kicks-off-2022-beat-the-heat-program.aspx</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2022/052422-txu-energy-kicks-off-2022-beat-the-heat-program.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+     <url>
+    <loc>https://www.txu.com/about/press-releases/2022/051022-txu-energy-announces-recipients-of-2022-energy-leadership-rewards.aspx</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2022/051022-txu-energy-announces-recipients-of-2022-energy-leadership-rewards.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+    <url>
+    <loc>https://www.txu.com/about/press-releases/2022/050222-txu-energy-plan-gives-free-electricity-on-hottest-days-of-summer.aspx</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2022/050222-txu-energy-plan-gives-free-electricity-on-hottest-days-of-summer.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+       <url>
+    <loc>https://www.txu.com/about/press-releases/2021/121721-txu-energy-donates-to-families-in-need.aspx</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2021/121721-txu-energy-donates-to-families-in-need.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>  
+      <url>
+    <loc>https://www.txu.com/about/press-releases/2021/100521-txu-energy-plan-offers-free-electricity-with-energy-cash-rewards.aspx</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2021/100521-txu-energy-plan-offers-free-electricity-with-energy-cash-rewards.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+       <url>
+    <loc>https://www.txu.com/about/press-releases/2021/072821-txu-energy-partners-with-papa-johns-houston-to-deliver-free-solar-energy.aspx</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2021/072821-txu-energy-partners-with-papa-johns-houston-to-deliver-free-solar-energy.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+       <url>
+    <loc>https://www.txu.com/about/press-releases/2021/061421-txu-energy-beat-the-heat-kickoff-2021.aspx</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2021/061421-txu-energy-beat-the-heat-kickoff-2021.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+        <url>
+    <loc>https://www.txu.com/about/press-releases/2021/032321-txu-energy-launches-new-plan-for-electric-vehicle-owners.aspx</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2021/032321-txu-energy-launches-new-plan-for-electric-vehicle-owners.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+      <url>
+    <loc>https://www.txu.com/about/press-releases/2021/022121-txu-energy-assures-residential-customers-of-insulation-from-high-rates-during-winter-storm.aspx</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/about/press-releases/2021/022121-txu-energy-assures-residential-customers-of-insulation-from-high-rates-during-winter-storm.aspx" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+    <url>
     <loc>https://www.txu.com/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.txu.com/es/" />
     <changefreq>monthly</changefreq>
